@@ -1,4 +1,6 @@
 Practica 1 ICC
+
+
 1Psicologo 
 Objetivo
 El objetivo de esta practica es que el alumno se familiarice con la creacion y uso de objetos de la clase String utilizando algunos metodos de dicha clase en la elaboracion de un programa.
@@ -13,6 +15,8 @@ preguntar Por que dice e incluir la respuesta anterior entre comillas.
 (f) Leer, la respuesta del paciente.
 (g) Finalmente decir Muy interesante!!, Hablaremos de ello con mas detalle en la
 siguiente sesion.
+
+
 2. RFC 
 Crea el archivo RFC.java en el directorio de trabajo para esta practica.
  Escribir en el archivo RFC.java un programa para generar el RFC de una persona.
